@@ -1,3 +1,3 @@
 def print_hello
-  print 'Hello yochiyochi members!'
+  puts 'Hello yochiyochi members!'
 end
