@@ -13,3 +13,4 @@ Github練習操作用のリポジトリです。
 
 test
 learning
+練習中
