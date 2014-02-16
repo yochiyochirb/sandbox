@@ -10,7 +10,3 @@ Github練習操作用のリポジトリです。
 画面右上のアカウント設定アイコンをクリックして、
 **Notification Centar -> How you receive notifications**
 の順にたどっていって 通知の受け取り方法や通知先アドレスを変更してください。
-
-test
-learning
-いろいろ
